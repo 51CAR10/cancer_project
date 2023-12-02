@@ -1,0 +1,2 @@
+mALIGNANT=4
+bENIGN=2
